@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+li{
+    margin: 10px 0;
+}
+
+ul{
+    list-style-type: none; /* para que no aparezca el puntito de item */
+}
